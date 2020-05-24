@@ -35,7 +35,7 @@ namespace lanche
                     break;
             }
 
-            Console.WriteLine("Total a ser pago: R$ " + total.ToString("C") + "\n");hshs
-    }
+            Console.WriteLine("Total a ser pago: R$ " + total.ToString("C") + "\n");
+        }
     }
 }
