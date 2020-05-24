@@ -1,0 +1,12 @@
+D:\Projetos_Programacao\Projetos_GIT_C#\lanche\bin\Debug\netcoreapp3.1\lanche.exe
+D:\Projetos_Programacao\Projetos_GIT_C#\lanche\bin\Debug\netcoreapp3.1\lanche.deps.json
+D:\Projetos_Programacao\Projetos_GIT_C#\lanche\bin\Debug\netcoreapp3.1\lanche.runtimeconfig.json
+D:\Projetos_Programacao\Projetos_GIT_C#\lanche\bin\Debug\netcoreapp3.1\lanche.runtimeconfig.dev.json
+D:\Projetos_Programacao\Projetos_GIT_C#\lanche\bin\Debug\netcoreapp3.1\lanche.dll
+D:\Projetos_Programacao\Projetos_GIT_C#\lanche\bin\Debug\netcoreapp3.1\lanche.pdb
+D:\Projetos_Programacao\Projetos_GIT_C#\lanche\obj\Debug\netcoreapp3.1\lanche.AssemblyInfoInputs.cache
+D:\Projetos_Programacao\Projetos_GIT_C#\lanche\obj\Debug\netcoreapp3.1\lanche.AssemblyInfo.cs
+D:\Projetos_Programacao\Projetos_GIT_C#\lanche\obj\Debug\netcoreapp3.1\lanche.csproj.CoreCompileInputs.cache
+D:\Projetos_Programacao\Projetos_GIT_C#\lanche\obj\Debug\netcoreapp3.1\lanche.dll
+D:\Projetos_Programacao\Projetos_GIT_C#\lanche\obj\Debug\netcoreapp3.1\lanche.pdb
+D:\Projetos_Programacao\Projetos_GIT_C#\lanche\obj\Debug\netcoreapp3.1\lanche.genruntimeconfig.cache
